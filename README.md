@@ -39,7 +39,7 @@ target | String or Element | - | where the content will be appended. Defaults to
 
 ## Behavior
 
-Works with `v-if` but not `v-show` on `<portal>`.
+Works with `v-if` but not `v-show` on `<portal>`. Use `v-show` on children instead:
 ```html
 <portal v-if="active">
   <span>Will be appended to body</span>
