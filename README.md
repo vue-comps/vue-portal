@@ -1,3 +1,5 @@
+# DEPRECATED see [cerijs](https://github.com/cerijs) and [ceri-portal](https://github.com/ceri-comps/ceri-portal)
+
 # vue-portal
 
 teleports the content to another location in the dom. Similar to [vue-transfer-dom](https://github.com/rhyzx/vue-transfer-dom) and [vue-move-dom](https://github.com/BosNaufal/vue-move-dom), but as a component instead of a directive.
